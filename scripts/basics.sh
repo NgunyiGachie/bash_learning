@@ -36,7 +36,7 @@ echo "Creating a test file..."
 touch test_file.text
 echo "This is a sample file." > test_file.txt
 echo "File created. Listing files in the current directory:"
-ls -l
+ls -a
 
 # End of script
 echo "Script execution finished!"
